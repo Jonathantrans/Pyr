@@ -11,7 +11,7 @@ LinkedIn: https://www.linkedin.com/in/jonathantrans/ \
 Personal Website: https://jonathantrans.github.io/ \
 YouTube Channel: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ \
 Live Demo: https://www.youtube.com/watch?v=BsgmJJBy_pA \
-Download Link: http://www.mediafire.com/file/s1n03fixidlav56/PYR.zip/file \
+Download Link: http://www.mediafire.com/file/s1n03fixidlav56/PYR.zip/file
 
 # Requirements :
-Minecraft 1.8+ to utilize the resource pack! 😺
+Minecraft 1.6+ to utilize the resource pack! 😺
