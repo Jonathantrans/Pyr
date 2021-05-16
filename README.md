@@ -8,11 +8,10 @@ Tools: Java Developer Kit, Forge, and Paint.NET 👻
 
 # Link(s) : 
 LinkedIn: https://www.linkedin.com/in/jonathantrans/ \
-Personal Website: https://jonathantrans.github.io/
-
-# Gameplay : 
-With left click you take the figure and with rigth click you place it.\
-When you take the figure with green and red squares it will mark where you can place it.
+Personal Website: https://jonathantrans.github.io/ \
+YouTube Channel: https://www.youtube.com/channel/UCaDNkOocrMIU-oV0OVrM_jQ \
+Live Demo: https://www.youtube.com/watch?v=BsgmJJBy_pA \
+Download Link: http://www.mediafire.com/file/s1n03fixidlav56/PYR.zip/file \
 
 # Requirements :
-To compile the program you will need SFML-2.4.2. 😺
+Minecraft 1.8+ to utilize the resource pack! 😺
